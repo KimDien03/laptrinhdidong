@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118382363397",
+    "project_id": "food-travel-guide",
+    "storage_bucket": "food-travel-guide.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118382363397:android:24fbb033c5474948a66d6c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkDbkjnNxAJSezFGlLNLY-Ldv-x-2IWf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118382363397:android:cf37fdc0dba79b2fa66d6c",
+        "android_client_info": {
+          "package_name": "com.example.food_travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkDbkjnNxAJSezFGlLNLY-Ldv-x-2IWf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
